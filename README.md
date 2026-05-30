@@ -1,7 +1,4 @@
-# applied-statistics
 Statistical analysis coursework - distributions, MLE, hypothesis testing and linear regression using Python
-
-
 # Applied Statistics — ECS764P (MSc Data Science, QMUL)
 
 Statistical analysis coursework completed as part of the MSc Data Science 
